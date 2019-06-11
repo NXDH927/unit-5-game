@@ -1,0 +1,62 @@
+body{
+
+    background-image: url(/Images/space-image.jpg);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 1%;
+    margin-right: 45%;
+
+
+}
+
+h1{
+    
+    margin: 1%;
+    
+    
+}
+
+h3{
+
+    margin: 1%;
+
+}
+
+h5{
+
+    margin: 1%;
+
+}
+
+p{
+
+    margin: 1%;
+
+}
+
+button{
+
+    margin: 1%;
+
+}
+
+div.Instructions{
+    
+    background-color: lightgray;
+    padding: 2px;
+
+}
+
+div.GameBox{
+
+    background-color: lightgray;
+    padding: 2px;
+
+}
+
+div.Title{
+
+    background-color: lightgray;
+    padding: 2px;
+
+
+}
